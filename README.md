@@ -4,7 +4,7 @@ The following content shows how to build and complete the task.
 
 ## 1. training data:
   The training data we use is from [Kaggle completion website](https://www.kaggle.com/competitions/espnet-taiwanese-asr1/data), provide by TA, which is a bunch for Hakka voice data and training text, notice that the text we use are the pronounciation that ignoring tones to reduce the complexity of training.
-  The training data is placed at thge following location in ESPnet, using Aishell training model as example:
+  The training data is placed at thge following location in ESPnet, using Aishell training model as example: 
 
 >espnet/egs2/aishell/asr1/downloads
 >>data_aishell
